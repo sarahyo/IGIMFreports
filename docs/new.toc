@@ -1,0 +1,11 @@
+\contentsline {section}{Introduction}{1}{section*.2}%
+\contentsline {section}{\numberline {1}The universal IMF}{2}{section.1}%
+\contentsline {section}{\numberline {2}THE $m_{max}-M_{ecl}$ RELATION}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The maximum stellar mass and cluster formation}{2}{subsection.2.1}%
+\contentsline {section}{\numberline {3}The maximum stellar mass and cluster formation}{3}{section.3}%
+\contentsline {section}{\numberline {4}}{4}{section.4}%
+\contentsline {section}{\numberline {5}Two-dimensional diffusion equation}{4}{section.5}%
+\contentsline {section}{\numberline {6}Results for two-dimensional heat equation}{4}{section.6}%
+\contentsline {subsection}{\numberline {6.1}The case of constant diffusion coefficient}{4}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}The case of random diffusion coefficient}{9}{subsection.6.2}%
+\contentsline {section}{Appendix}{9}{section*.14}%
